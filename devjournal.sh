@@ -1,5 +1,4 @@
 
-mkdir development_journals
 cd development_journals
 
 echo "http://developmentjournal.tumblr.com/" >> aaron_michael.txt
